@@ -17,7 +17,7 @@ boto==2.38.0
 # Requirements for ZK_Update_Monitor
 gevent_subprocess==0.1.1
 requests==2.5.3
-Flask==0.8
+Flask==1.0
 supervisor
 
 # For testing/building
